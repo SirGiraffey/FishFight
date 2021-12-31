@@ -18,7 +18,7 @@
 - Carlo Supina, [@cdsupina](https://github.com/cdsupina) – Dev Advocacy
 - Micah, [@tigleym](https://github.com/tigleym) – Dev Advocacy
 - Drake, [@Drakeyn](https://github.com/Drakeyn)– Media Content
-- Zyrafa, [@SirGiraffey](https://github.com/SirGiraffey) – Gameplay Design
+- Michał Grzegórzek - Kiaszewicz "Zyrafa", [@SirGiraffey](https://github.com/SirGiraffey) – Gameplay Design
 
 # Contributors
 
